@@ -1,4 +1,4 @@
-# DNC-desafio01-landingpage - 
+# DNC-desafio01-landingpage 
 DNC-Desafio 01 - Desenvolva uma Lading Page
 
 Link do site disponibilizado:https://desafio-01-desenvolva-uma-landingpage.netlify.app/
